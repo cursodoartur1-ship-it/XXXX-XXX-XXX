@@ -1,0 +1,6 @@
+{
+  "name": "+200 Projetos de Eletrônica para Alunos",
+  "description": "Biblioteca digital com mais de 200 projetos práticos de eletrônica passo a passo para professores, educadores e estudantes por apenas R$ 9,90.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
